@@ -123,5 +123,5 @@ def batch_process_directory(input_dir="key_word_test", output_dir="key_word_test
 
 
 if __name__ == "__main__":
-    print("🚀 开始批量处理 key_word_extraction 文件夹中的文本文件...\n")
+    print("Begin processing...\n")
     batch_process_directory()
